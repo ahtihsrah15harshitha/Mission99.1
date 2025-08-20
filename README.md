@@ -61,8 +61,8 @@ yaml
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mission-991/HACKATHON.git
-   cd HACKATHON
+   git clone https://github.com/Mission-991.git
+   cd Mission-991
 Open front page.html in your browser.
 
 Log in via the login page.
