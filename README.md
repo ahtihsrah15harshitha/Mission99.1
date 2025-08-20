@@ -66,6 +66,7 @@ yaml
 Open front page.html in your browser.
 
 Log in via the login page.
+if new user,register using email id and then login using the credentials you have entered
 
 Navigate to the event list, register, and submit your hackathon entry!
 
